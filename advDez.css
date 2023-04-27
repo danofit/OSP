@@ -1,0 +1,17 @@
+
+body {
+background: black;}
+    
+a{ 
+    font-family: monospace;
+    font-size: 18px;
+    color:wheat;
+    justify-content: center;
+    }
+p {
+  font-family:sans-serif;
+  color:whitesmoke;
+    font-size: 18px;
+}
+video{ display: block;
+margin: 0 auto;}
