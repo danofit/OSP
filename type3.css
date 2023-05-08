@@ -1,0 +1,17 @@
+body {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  h1 {
+    color: #fff;
+  }
+  
+  img {
+    filter: grayscale(100%);
+  }
+  
+  a {
+    color: #fff;
+  }
+  
