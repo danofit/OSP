@@ -1,0 +1,38 @@
+.slideout-menu {
+    position: fixed;
+    left: -250px; /* Initial position - outside the screen */
+    top: 0;
+    width: 250px;
+    height: 100vh;
+    background: #333;
+    color: #fff;
+    transition: left 0.3s ease-in;
+    font-family: 'Quicksand', sans-serif;
+    z-index: 9999;
+  }
+  
+  .slideout-menu a {
+    display: block;
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    transition: background 0.3s;
+  }
+  
+  .slideout-menu a:hover {
+    background: rgba(0, 0, 0, 0.3);
+  }
+  
+  .menu-toggle {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+    z-index: 10000;
+  }
+  
+  .material-icons {
+    font-size: 28px;
+    color: #fff;
+  }
+  
