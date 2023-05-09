@@ -1,7 +1,7 @@
 .slideout-menu {
     position: fixed;
     left: -250px; /* Initial position - outside the screen */
-    top: 0;
+    top: 80px; /* Adjust the top value to create space for the menu toggle */
     width: 250px;
     height: 100vh;
     background: #333;
@@ -17,6 +17,7 @@
     color: #fff;
     text-decoration: none;
     transition: background 0.3s;
+    font-family: 'Quicksand', sans-serif;
   }
   
   .slideout-menu a:hover {
@@ -29,10 +30,15 @@
     left: 20px;
     cursor: pointer;
     z-index: 10000;
+    color: #fff;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
   }
   
   .material-icons {
     font-size: 28px;
     color: #fff;
   }
+  
+  
   
