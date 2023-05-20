@@ -35,7 +35,7 @@ h1 {
 }
 
 .column {
-    float: left;
+    display: inline-block; /* Add this line */
     width: 50%;
     padding: 5px;
 }
