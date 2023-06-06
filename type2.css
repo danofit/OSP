@@ -13,7 +13,7 @@ img{
         a{
           font-family: monospace;
         }
-        h1 {text-align: right;
+        h1 {text-align: center;
             font-family: monospace;
           font-size: 40px;
           font-weight: bold;
@@ -22,7 +22,7 @@ img{
             background : #4287f5;
             border-radius: 25px;
            padding: 20px;
-          width: 60%;
+          width: auto;
           height: auto;}
           .row::after {
             content: "";
@@ -52,4 +52,10 @@ img{
                   margin-right: auto;
                   
                 }
-              
+                h2 {
+                  font-family: monospace;
+                font-weight: bold;
+                color: rgb(237, 61, 61);
+                text-shadow: 2px 2px grey;
+                font-size: 25px;
+                  }
