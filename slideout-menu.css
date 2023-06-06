@@ -5,7 +5,7 @@
     width: 250px;
     height: 100vh;
     background: #000000;
-    color: #fff;
+    color: #e3e772;
     transition: left 0.3s ease-in;
     font-family: 'Quicksand', sans-serif;
     z-index: 9999;
@@ -14,7 +14,7 @@
   .slideout-menu a {
     display: block;
     padding: 15px;
-    color: #fff;
+    color: #e3e772;
     text-decoration: none;
     transition: background 0.3s;
     font-family: 'Quicksand', sans-serif;
@@ -30,14 +30,14 @@
     left: 20px;
     cursor: pointer;
     z-index: 10000;
-    color: #fff;
+    color: #e3e772;
     font-size: 24px;
     font-family: 'Quicksand', sans-serif;
   }
   
   .material-icons {
     font-size: 28px;
-    color: #fff;
+    color: #e3e772;
   }
   
   
