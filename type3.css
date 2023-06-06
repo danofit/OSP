@@ -9,4 +9,11 @@ body {
   a {
     color: #fff;
   }
+  #logo {width: 5%;
+    height: auto;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+      
+    }
   

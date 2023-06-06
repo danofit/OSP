@@ -51,3 +51,10 @@ a{
           width: 33.33%;
           padding: 5px;
         }
+        #logo {width: 5%;
+          height: auto;
+          display: block;
+            margin-left: auto;
+            margin-right: auto;
+            
+          }
