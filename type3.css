@@ -1,19 +1,40 @@
 body {
-    background-color: #000;
-    color: #fff;
+  background-color: #000;
+  color: #fff;
+}
+img {
+  width: 35%;
+}
+h1 {
+  color: #fff;
+  font-family: monospace;
+  font-size: 40px;
+}
+p {
+  color: #fff;
+  font-family: monospace;
+  text-align: right;
+  font-size: 18px;
+}
+#logo {
+  width: 5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  h2 {
+    font-family: monospace;
+    font-size: 25px;
+  }
+  .my-container {
+    font-size: 18px;
+   
   }
   
-  h1 {
-    color: #fff;
+  .my-container .aligned-text {
+    text-align: left;
   }
-  a {
-    color: #fff;
-  }
-  #logo {width: 5%;
-    height: auto;
-    display: block;
-      margin-left: auto;
-      margin-right: auto;
-      
-    }
   
